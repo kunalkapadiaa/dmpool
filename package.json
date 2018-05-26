@@ -1,11 +1,11 @@
 {
-    "name": "cryptonote-pool",
+    "name": "Distri Mining Pool",
     "version": "0.0.1",
     "license": "GPL-2.0",
-    "author": "Matthew Little",
+    "author": "Kunal Kapadia",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-cryptonote-pool.git"
+        "url": "https://github.com/kunalkapadiaa/dmpool.git"
     },
     "dependencies": {
         "bignum": "0.12.5",
