@@ -1,6 +1,6 @@
 {
-    "coin": "monero",
-    "symbol": "XMR",
+    "coin": "dmcoin",
+    "symbol": "DMC",
 
     "logging": {
         "files": {
@@ -98,21 +98,21 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password"
+        "password": "Qwer123@"
     },
 
     "daemon": {
-        "host": "127.0.0.1",
+        "host": "172.31.44.107",
         "port": 18081
     },
 
     "wallet": {
-        "host": "127.0.0.1",
+        "host": "172.31.44.107",
         "port": 8082
     },
 
     "redis": {
-        "host": "127.0.0.1",
+        "host": "52.58.87.96",
         "port": 6379,
         "auth": null
     }
